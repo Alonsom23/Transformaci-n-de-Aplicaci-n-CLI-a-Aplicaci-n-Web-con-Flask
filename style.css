@@ -1,0 +1,12 @@
+/* Estilos personalizados para tu aplicación */
+body {
+    padding-top: 20px; /* Espacio para el navbar fijo si lo hubieras puesto */
+    background-color: #f8f9fa; /* Color de fondo ligero */
+}
+
+.container {
+    max-width: 960px; /* Limita el ancho del contenido principal */
+}
+
+/* Puedes añadir más estilos aquí si lo deseas */
+/* Por ejemplo, para tablas, botones, etc. */
